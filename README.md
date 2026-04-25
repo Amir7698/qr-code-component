@@ -15,7 +15,7 @@ Key features:
 
 ## Links
 
-- **Live Site URL:** []
+- **Live Site URL:** [https://amir7698.github.io/qr-code-component/]
 
 
 ## My Process
